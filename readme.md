@@ -18,3 +18,4 @@ In the right bar, score and level number is displayed with number of remaining l
 
 # Information for developer
 Feel free to explore, Code is written completely in Java. 
+First Game made by me!
